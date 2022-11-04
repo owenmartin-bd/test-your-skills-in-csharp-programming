@@ -1,0 +1,15 @@
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\bin\Debug\net6.0\1.P6.exe
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\bin\Debug\net6.0\1.P6.deps.json
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\bin\Debug\net6.0\1.P6.runtimeconfig.json
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\bin\Debug\net6.0\1.P6.dll
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\bin\Debug\net6.0\1.P6.pdb
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.csproj.AssemblyReference.cache
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.AssemblyInfoInputs.cache
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.AssemblyInfo.cs
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.csproj.CoreCompileInputs.cache
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.dll
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\refint\1.P6.dll
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.pdb
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\1.P6.genruntimeconfig.cache
+E:\Tutorial Project\Books\test_your_skills_in_c-_programming\Chapter-01\1.P6\obj\Debug\net6.0\ref\1.P6.dll
